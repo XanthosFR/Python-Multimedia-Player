@@ -22,5 +22,5 @@ Run this commands on command prompt
     
 ## Authors
 
-- [@Xanthos](https://www.github.com/XanthosFRs)
+- [@Xanthos](https://www.github.com/XanthosFR)
 
